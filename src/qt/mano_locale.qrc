@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/mano_bg.qm</file>
+        <file alias="ca">locale/mano_ca.qm</file>
+        <file alias="cs">locale/mano_cs.qm</file>
+        <file alias="da">locale/mano_da.qm</file>
+        <file alias="de">locale/mano_de.qm</file>
+        <file alias="en">locale/mano_en.qm</file>
+        <file alias="en_US">locale/mano_en_US.qm</file>
+        <file alias="es">locale/mano_es.qm</file>
+        <file alias="fi">locale/mano_fi.qm</file>
+        <file alias="fr_FR">locale/mano_fr_FR.qm</file>
+        <file alias="hr">locale/mano_hr.qm</file>
+        <file alias="it">locale/mano_it.qm</file>
+        <file alias="ja">locale/mano_ja.qm</file>
+        <file alias="ko_KR">locale/mano_ko_KR.qm</file>
+        <file alias="nl">locale/mano_nl.qm</file>
+        <file alias="pl">locale/mano_pl.qm</file>
+        <file alias="pt">locale/mano_pt.qm</file>
+        <file alias="pt_BR">locale/mano_pt_BR.qm</file>
+        <file alias="ro_RO">locale/mano_ro_RO.qm</file>
+        <file alias="ru">locale/mano_ru.qm</file>
+        <file alias="sk">locale/mano_sk.qm</file>
+        <file alias="sv">locale/mano_sv.qm</file>
+        <file alias="tr">locale/mano_tr.qm</file>
+        <file alias="uk">locale/mano_uk.qm</file>
+        <file alias="zh_CN">locale/mano_zh_CN.qm</file>
+        <file alias="zh_TW">locale/mano_zh_TW.qm</file>
+    </qresource>
+</RCC>
